@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/LucasVasquez/Code/Android/XYZReader/build/intermediates/res/merged/debug/drawable-v21/white_selectable_item_background_circle.xml",
+        "source": "/Users/LucasVasquez/Code/Android/XYZReader/src/main/res/drawable-v21/white_selectable_item_background_circle.xml"
+    },
+    {
+        "merged": "/Users/LucasVasquez/Code/Android/xyzreader/XYZReader/build/intermediates/res/merged/debug/drawable-v21/white_selectable_item_background_circle.xml",
+        "source": "/Users/LucasVasquez/Code/Android/xyzreader/XYZReader/src/main/res/drawable-v21/white_selectable_item_background_circle.xml"
+    }
+]
