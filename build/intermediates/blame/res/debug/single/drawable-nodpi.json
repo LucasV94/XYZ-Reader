@@ -1,9 +1,5 @@
 [
     {
-        "merged": "/Users/LucasVasquez/Code/Android/xyzreader/XYZReader/build/intermediates/res/merged/debug/drawable-nodpi/empty_detail.png",
-        "source": "/Users/LucasVasquez/Code/Android/xyzreader/XYZReader/src/main/res/drawable-nodpi/empty_detail.png"
-    },
-    {
         "merged": "/Users/LucasVasquez/Code/Android/XYZReader/build/intermediates/res/merged/debug/drawable-nodpi/empty_detail.png",
         "source": "/Users/LucasVasquez/Code/Android/XYZReader/src/main/res/drawable-nodpi/empty_detail.png"
     }

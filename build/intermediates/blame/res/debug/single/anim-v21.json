@@ -2,9 +2,5 @@
     {
         "merged": "/Users/LucasVasquez/Code/Android/XYZReader/build/intermediates/res/merged/debug/anim-v21/fab_state_list_anim.xml",
         "source": "/Users/LucasVasquez/Code/Android/XYZReader/src/main/res/anim-v21/fab_state_list_anim.xml"
-    },
-    {
-        "merged": "/Users/LucasVasquez/Code/Android/xyzreader/XYZReader/build/intermediates/res/merged/debug/anim-v21/fab_state_list_anim.xml",
-        "source": "/Users/LucasVasquez/Code/Android/xyzreader/XYZReader/src/main/res/anim-v21/fab_state_list_anim.xml"
     }
 ]
